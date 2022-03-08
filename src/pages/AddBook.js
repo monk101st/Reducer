@@ -17,7 +17,7 @@ export const AddBook = (props) => {
   const handleSubmit = (e) => {
     e.preventDefault()
     const newBook = {
-      id: props.data.length + 1,
+      id: props.data.length + 1,  // to jest błąd bo podczas usuwania rozmiar się zmniejsza i można nadać to samo id.
       title: inputTitle,
       author: inputAuthor,
       categories: inputCategory,
