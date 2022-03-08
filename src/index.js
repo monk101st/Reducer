@@ -1,13 +1,14 @@
 import React from 'react';
+import {BrowserRouter} from 'react-router-dom'
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
-  <React.StrictMode>
+  <BrowserRouter basename={process.env.PUBLIC_URL}>
     <App />
-  </React.StrictMode>,
+  </BrowserRouter>,
   document.getElementById('root')
 );
 

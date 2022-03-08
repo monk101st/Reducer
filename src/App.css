@@ -1,38 +1,72 @@
-.App {
+@import url("https://fonts.googleapis.com/css2?family=Oswald&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Montserrat:400,700&display=swap&subset=latin-ext");
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Pattaya&display=swap");
+/* font-family: 'Oswald', sans-serif; */
+/* font-family: 'Montserrat', sans-serif; */
+/* font-family: 'Roboto', sans-serif; */
+/* font-family: 'Pattaya', sans-serif; */
+
+/* ---------------------------------------------------- */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  user-select: none;
+}
+
+.app-container {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  background-color: gray;
+}
+.nav-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 200px;
+  height: 100%;
+  background-color: rgb(2, 2, 44);
+  color: aliceblue;
+}
+.page-title {
+  font-size: 20px;
+  color: #fff;
+  line-height: 20px;
   text-align: center;
+  text-shadow: 0 0 5px #34acdf, 0 0 10px #34acdf, 0 0 15px #34acdf,
+    0 0 15px #598aec, 0 0 25px #598aec, 0 0 30px #598aec;
+  padding-top: 20px;
+  margin-bottom: 20px;
+  text-transform: uppercase;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.main-container {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: calc(100% - 200px);
+  height: 100vh;
+  background-color: rgb(238, 235, 231);
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.nav-ul-container {
+  width: 100%;
+  padding: 10px;
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.nav-ul-container li {
+  width: 100%;
+  list-style: none;
+  text-align: center;
+  text-transform: uppercase;
+  margin-top: 10px;
+  border: 2px solid #34acdf;
 }
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.nav-ul-container li a {
+  width: 100%;
+  height: 100%;
+  font-family: "Oswald", sans-serif;
+  font-size: 1.2rem;
+  text-decoration: none;
+  color: #fff;
 }

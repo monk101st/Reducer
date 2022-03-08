@@ -1,0 +1,77 @@
+{
+    "errors": [],
+    "response": {
+      "books": [
+        {
+          "id": "1159142",
+          "title": "Wiedźmin Wiedźmi lament.",
+          "author": "Bartosz Sztybor , Rey Vanesa R. Del",
+          "categories": "Web development",
+          "year": "2010",
+          "pages": "112",
+          "description": "Jeśli nadal nie jesteś pewny książki Wiedźmin Wiedźmi lament, zapoznaj się z ocenami i recenzjami naszych klientów. Może oni przekonają Cię, że Wiedźmin Wiedźmi lament - Bartosz Sztybor, Rey Vanesa R. Del to pozycja warta Twojej uwagi. Po przeczytaniu książki Wiedźmin Wiedźmi lament nie zapomnij zostawić swojej recenzji i wziąć udziału w konkursie! Wybierz książkę Wiedźmin Wiedźmi lament, sprawdź inne tytuły, których autorem jest Bartosz Sztybor, Rey Vanesa R. Del i przeczytaj biografię. To wszystko tylko na Gandalf.com.pl! Gandalf.com.pl",
+          "cover": "https://www.gandalf.com.pl/o/wiedzmi-lament-sztybor-bartosz-del-rey-vanesa-r,big,1291474.webp"
+        },
+        {
+          "id": "2375753",
+          "title": "Batman Imposter",
+          "author": "Graham Tomlin",
+          "categories": "sci-fi",
+          "year": "2017",
+          "pages": "345",
+          "description": "Na ulicach Gotham zaczyna działać drugi Batman. Oszust nie ma żadnych skrupułów, aby mordować przestępców. Gdy pojawiają się nagrania, na których widać, jak dokonuje egzekucji, stawia to prawdziwego obrońcę miasta w bardzo trudnym położeniu. Mimo depczącej mu po piętach policji Batman musi znaleźć przebierańca i oczyścić swoje dobre imię... Tylko czy mu się to uda, gdy będzie skrywał twarz za maską? Gandalf.com.pl",
+          "cover": "https://www.gandalf.com.pl/o/batman-imposter,big,1298679.webp"
+        },
+        {
+          "id": "592321",
+          "title": "Virion Pustynia",
+          "author": "Andrzej Ziemiański",
+          "categories": "Fantastyka",
+          "year": "2005",
+          "pages": "554",
+          "description": "Władza to tylko przyzwyczajenie, przekonanie poddanych, że ktoś nimi rządzi. A kto? ` Tego właściwie nie wie już chyba nikt. Najpotężniejsza służba cesarstwa, Zamek, właściwie przestała istnieć. Pałac bezradnie patrzy, jak misternie budowane latami podwaliny władzy rozpadają się jak domek z kart. Dyplomacja? Wolne żarty. Na terenie cesarstwa właśnie zniknęła ambasadorka Królestwa Troy. Obywatele Luan popadają w zbiorową histerię. Kometa nadal przemierza nieboskłon, obojętna na całe ziemskie zamieszanie. Czas Taidy się kończy - nie może liczyć na Zamek, Nervę ani nikogo innego. Nie jest już nawet pewna, czy może ufać samej sobie. A Cesarz żąda wyników. Krwawych wyników. Virion i jego ludzie robią co mogą, by wyniki były odpowiednio spektakularne, ale gdy na granicy staje Legion Moy, żarty się kończą. Gandalf.com.pl",
+          "cover": "https://www.gandalf.com.pl/o/virion-pustynia,pd,1292737.webp"
+        },
+        {
+          "id": "4",
+          "title": "Kroniki Diuny Tom 1 Gandalf.com.pl",
+          "author": "Frank Herbert",
+          "categories": "Fantastyka",
+          "year": "2005",
+          "pages": "784",
+          "description": "Arrakis, zwana Diuną, to jedyne we wszechświecie źródło melanżu. Z rozkazu Padyszacha Imperatora planetę przejmują Atrydzi, zaciekli wrogowie władających nią dotychczas Harkonnenów. Zwycięstwo księcia Leto Atrydy jest jednak pozorne - przejęcie planety ukartowano. W odpowiedzi na atak Imperium i Harkonnenów dziedzic rodu Atrydów Paul staje na czele rdzennych mieszkańców Diuny i sięga po imperialny tron. Oszałamiające połączenie przygody oraz mistycyzmu, ekologii i polityki. Gandalf.com.pl",
+          "cover": "https://www.gandalf.com.pl/o/diuna-i-herbert-frank,big,1251588.webp"
+        },
+        {
+          "id": "5",
+          "title": "Mumia",
+          "author": "Paweł Leśniak",
+          "categories": "Fantastyka",
+          "year": "2005",
+          "pages": "784",
+          "description": "Starożytny Egipt skrywa więcej mrocznych tajemnic niż można przypuszczać Mose doczekał się chwili obcięcia włosów i tym samym staje się mężczyzną, mogącym decydować o swym losie. Jego ojciec, Keftir to weteran wojenny, wierny służbie Faraonowi. Ma jedno pragnienie - aby syn wstąpił do wojska i wspomógł utrzymanie domostwa, podarowanego im przez Faraona Echnatona. Mose jednak ma inne plany wobec swojej przyszłości, nieświadomy tego, że jego rodzice ukrywają przed nim fakt, iż są dręczeni i nachodzeni przez zbieraczy podatków, za długi wobec skarbca Faraona Gandalf.com.pl",
+          "cover": "https://www.gandalf.com.pl/o/mumia-s,big,1292736.webp"
+        },
+        {
+          "id": "6",
+          "title": "W Kalabrii",
+          "author": "Peter S. Beagle",
+          "categories": "Fantastyka",
+          "year": "2010",
+          "pages": "112",
+          "description": "Claudio Bianchi od wielu lat mieszka samotnie na zboczu wzgórza w malowniczej Kalabrii w południowych Włoszech. Wierny swym przyzwyczajeniom i podejrzliwy wobec obcych, Claudio zawsze opierał się zmianom, preferując uprawę roli i pisanie wierszy. Ale pewnego chłodnego poranka w jego gospodarstwie zjawia się istota rodem ze snów. Kiedy Claudio przychodzi jej z pomocą, ten akt dobroci przewraca jego mały świat do góry nogami. Skromny rolnik nagle musi się mierzyć z wścibstwem gapiów, natarczywymi dziennikarzami i z kimś jeszcze bardziej złowrogim Gandalf.com.pl",
+          "cover": "https://www.gandalf.com.pl/o/w-kalabrii,big,1312576.webp"
+        },
+        {
+          "id": "7",
+          "title": "Legenda o popiołach i wrzasku",
+          "author": "Anna Bartłomiejczyk , Marta Gajewska",
+          "categories": "Fantastyka",
+          "year": "2011",
+          "pages": "182",
+          "description": "Claudio Bianchi od wielu lat mieszka samotnie na zboczu wzgórza w malowniczej Kalabrii w południowych Włoszech. Wierny swym przyzwyczajeniom i podejrzliwy wobec obcych, Claudio zawsze opierał się zmianom, preferując uprawę roli i pisanie wierszy. Ale pewnego chłodnego poranka w jego gospodarstwie zjawia się istota rodem ze snów. Kiedy Claudio przychodzi jej z pomocą, ten akt dobroci przewraca jego mały świat do góry nogami. Skromny rolnik nagle musi się mierzyć z wścibstwem gapiów, natarczywymi dziennikarzami i z kimś jeszcze bardziej złowrogim Gandalf.com.pl",
+          "cover": "https://www.gandalf.com.pl/o/legenda-o-popiolach-i-wrzasku,pd,1302893.webp"
+        }
+      ]
+    }
+  }

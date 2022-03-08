@@ -1,0 +1,36 @@
+.form-container {
+  position: absolute;
+  top: 10px;
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: rgb(6, 6, 64);
+  padding: 20px;
+  text-align: right;
+}
+.form-container h2 {
+  width: 100%;
+  text-align: center;
+  color: white;
+  padding-bottom: 20px;
+}
+.form-container label {
+  display: block;
+  color: white;
+  font-size: 14px;
+  margin-bottom: 10px;
+}
+.form-container label input {
+  width: 250px;
+  font-size: 14px;
+  outline-style: none;
+}
+.form-container label textarea {
+  width: 250px;
+  font-size: 14px;
+  outline-style: none;
+}
+.form-container button {
+  font-size: 14;
+  padding: 5px;
+  cursor: pointer;
+}

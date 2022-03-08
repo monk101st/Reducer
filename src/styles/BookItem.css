@@ -1,0 +1,61 @@
+.bookitem-all-container {
+  position: relative;
+  width: 100%;
+  background-color: rgb(245, 240, 234);
+  border-top: 1px solid black;
+}
+.bookitem-all-container:nth-child(even) {
+  background-color: rgb(205, 214, 211);
+}
+.primary-container {
+  position: relative;
+  width: 100%;
+  margin-top: 20px;
+  padding: 10px 50px;
+}
+.primary-container ul {
+  list-style: none;
+}
+.primary-container button {
+  position: absolute;
+  right: 5px;
+  bottom: 5px;
+  padding: 5px;
+  background-color: rgb(4, 12, 61);
+  color: aqua;
+  border-top-style: none;
+  cursor: pointer;
+}
+.primary-container h2 {
+  letter-spacing: 1px;
+}
+.primary-container h3 {
+  color: rgb(99, 102, 105);
+}
+.detail-container {
+  position: relative;
+  width: 100%;
+  min-height: 240px;
+  padding-right: 200px;
+  padding-left: 50px;
+}
+.detail-container img {
+  position: absolute;
+  top: 5px;
+  right: 5px;
+  width: 180px;
+  height: 220px;
+  border-style: none;
+  border: 2px solid rgb(44, 43, 43);
+}
+.detail-container h3 {
+  margin: 10px 0px;
+}
+.detail-container h3 span {
+  color: rgb(73, 72, 70);
+  font-weight: bold;
+}
+.detail-container p {
+  text-align: justify;
+  padding-bottom: 10px;
+}
