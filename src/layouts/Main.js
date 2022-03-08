@@ -1,10 +1,10 @@
-import React, {useEffect, useState, useReducer} from 'react'
-import { Routes, Route, Navigate } from 'react-router-dom'
+import React, {useEffect,  useReducer} from 'react'
+import { Routes, Route } from 'react-router-dom'
 import { Start } from '../pages/Start'
 import { Catalog } from '../pages/Catalog'
 import { AddBook } from '../pages/AddBook'
 import { RemoveBook } from '../pages/RemoveBook'
-import Axios from 'axios'
+
 
 import '../styles/Main.css'
 
