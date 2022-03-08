@@ -12,7 +12,7 @@ export const BookItem = (props) => {
  
   }
 
-
+  console.log(props.title);
 
   return (
     <div className='bookitem-all-container'>

@@ -1,0 +1,15 @@
+.mainHeader-container {
+  width: 100%;
+  padding: 20px;
+  text-align: right;
+}
+.mainHeader-container input {
+  width: 60%;
+  height: 25px;
+  font-size: 12px;
+  padding-left: 5px;
+}
+.mainHeader-container button {
+  padding: 5px;
+  margin-left: 10px;
+}

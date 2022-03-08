@@ -3,9 +3,8 @@ import { BookItem } from '../components/BookItem'
 
 export const Catalog = (props) => {
 
-    const check = props.data;
 
-    console.log(props);
+    console.log(props.data);
 
     const booksList = props.data.map(book => <BookItem
         key={book.id}
